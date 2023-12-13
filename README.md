@@ -5,4 +5,4 @@
     1. People can only mint stablecoin with enough collateral (coded)
 3. Collateral: Exogenous (Crypto)
     1. wETH
-    2. wBTC
+    2. wBTC# foundry-defi-stablecoin
